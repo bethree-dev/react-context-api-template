@@ -1,0 +1,13 @@
+@import 'theme.scss';
+@import 'reset.scss';
+
+body {
+   background-color: $primary-background-color;
+   font-family: 'Lato', sans-serif;
+   height: 100%;
+
+   html {
+      font-size: 62.5%;
+      height: 100%;
+   }
+}
